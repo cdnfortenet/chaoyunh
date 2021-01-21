@@ -1,0 +1,368 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title data-re="key=gongsijianjie#biaotimiaoshu&multiple=false&mark_title=感谢贵公司的信任&mark_type=blog&mark_section_label=公司信息&mark_env_label=标题描述&mark_section=gongsijianjie&mark_env=biaotimiaoshu&mark_page=1&mark_page_size=1">
+        感谢贵公司的信任</title>
+    <meta data-re="key=gongsijianjie#biaotimiaoshu&multiple=false&mark_title=感谢贵公司的信任&mark_type=blog&mark_section_label=公司信息&mark_env_label=标题描述&mark_section=gongsijianjie&mark_env=biaotimiaoshu&mark_page=1&mark_page_size=1"
+          name="keywords" content="感谢贵公司的信任">
+    <meta data-re="key=gongsijianjie#biaotimiaoshu&multiple=false&mark_title=感谢贵公司的信任&mark_type=blog&mark_section_label=公司信息&mark_env_label=标题描述&mark_section=gongsijianjie&mark_env=biaotimiaoshu&mark_page=1&mark_page_size=1"
+          name="description" content="感谢贵公司的信任">
+    <meta name="format-detection" content="telephone=no">
+    <link type="text/css" rel="stylesheet" href="css/style_cn_v=4.0.1.css">
+    <script type="text/javascript" src="jquery/jquery-fy.js"></script>
+    <script type="text/javascript" src="jquery/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="inc/global_v=4.0.1.js"></script>
+</head>
+<body>
+<div id="main">
+    <div id="header_top_blk">
+        <div id="header_top"
+             data-re="key=gongsijianjie#gongsimingchen&multiple=false&mark_title=雅超&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司名称&mark_section=gongsijianjie&mark_env=gongsimingchen&mark_page=1&mark_page_size=1">
+            欢迎光临雅超
+            <span id="header_login">
+                <a href="javascript:void(0);" onclick="$('#login,#login_bg').show();">会员登录</a>
+                <span>|</span>
+            </span>
+        </div>
+    </div>
+    <div id="header_blk">
+        <div id="header">
+            <a href="/"
+               data-re="key=gongsijianjie#gongsilo&multiple=false&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司logo&mark_section=gongsijianjie&mark_env=gongsilo&mark_page=1&mark_page_size=1&connections=thumbnails#yincangtupian#suolvetua">
+                <img data-re="mark_content_url=30&mark_show_on_dashboard=false&mark&multiple=false&mark_section=yincangtupian&mark_env=suolvetua"
+                     src="30" id="logo" alt="">
+            </a>
+            <div id="header_tel">24小时服务热线<h2></h2>
+                <h2 data-re="key=gongsijianjie#fuwurexian&multiple=false&mark_title=0755-27331986&mark_type=blog&mark_section_label=公司信息&mark_env_label=服务热线&mark_section=gongsijianjie&mark_env=fuwurexian&mark_page=1&mark_page_size=1">
+                    0755-27331986</h2>
+            </div>
+        </div>
+    </div>
+    <div id="nav_blk">
+        <ul id="nav">
+            <li>
+                <a href="index.html" class="nav_out">首 页</a>
+            </li>
+            <li>
+                <a class="nav_out">关于我们</a>
+                <p>
+                    <a href="/news_detail.html?&mark_env=guanyuwomen&mark_section=guanyuwomen&content_id=1324"
+                       data-re="key=guanyuwomen#guanyuwomen&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=公司信息&mark_body=内容详情&mark_type=blog&mark_section_label=关于我们&mark_env_label=关于我们&mark_section=guanyuwomen&mark_env=guanyuwomen&mark_page=1&mark_page_size=5"
+                    >公司信息</a>
+                </p>
+            </li>
+            <li>
+                <a class="nav_out">公司资讯</a>
+                <p>
+                    <a data-re="key=gongsizixun#gongsizixun&multiple=true&mark_title=新华社消息:商务部&mark_abstract=有人说:灾难&mark_body=最新消息:灾难&mark_type=blog&mark_section_label=公司资讯&mark_env_label=公司资讯&mark_section=gongsizixun&mark_env=gongsizixun&mark_page=1&mark_page_size=1"
+                       href="/news.html?&mark_section=gongsizixun&mark_env=gongsizixun">公司资讯</a>
+                    <a href="/news.html?&mark_section=hangyexinwen&mark_env=hangyexinwen&mark_show_on_dashboard=false">行业新闻</a>
+                </p>
+            </li>
+            <li>
+                <a class="nav_out">我们的产品</a>
+                <p>
+                    <a data-re="key=womendechanpin#chanpinliebiao&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=内容简介&mark_body=内容详情&mark_type=blog&mark_section_label=我们的产品&mark_env_label=产品列表&mark_section=womendechanpin&mark_env=chanpinliebiao&mark_page=1&mark_page_size=5"
+                       href="/news_detail.html?&mark_env=chanpinliebiao&mark_section=womendechanpin&content_id=1324">内容简介</a>
+                </p>
+            </li>
+            <li>
+                <a class="nav_out">我们的优势</a>
+                <p>
+                    <a data-re="key=womendeyoushi#womendeyoushi&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=DHL&mark_body=内容详情&mark_type=blog&mark_section_label=我们的优势&mark_env_label=我们的优势&mark_section=womendeyoushi&mark_env=womendeyoushi&mark_page=1&mark_page_size=5"
+                       href="/news_detail.html?&mark_section=womendeyoushi&mark_env=womendeyoushi&content_id=1324">DHL</a>
+                </p>
+            </li>
+            <li>
+                <a class="nav_out">咨询中心</a>
+                <p>
+                    <a data-re="key=zixunzhongxin#zixunzhongxin&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=内容简介&mark_body=内容详情&mark_type=blog&mark_section_label=咨询中心&mark_env_label=咨询中心&mark_section=zixunzhongxin&mark_env=zixunzhongxin&mark_page=1&mark_page_size=5"
+                       href="/news_detail.html?&mark_section=zixunzhongxin&mark_env=zixunzhongxin&content_id=1324">内容简介</a>
+                </p>
+            </li>
+            <li>
+                <a class="nav_out">帮助与支持</a>
+                <p>
+                    <a data-re="key=bangchuyuzhichi#bangchuyuzhichi&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=货物追踪&mark_body=内容详情&mark_type=blog&mark_section_label=帮助与支持&mark_env_label=帮助与支持&mark_section=bangchuyuzhichi&mark_env=bangchuyuzhichi&mark_page=1&mark_page_size=5"
+                       href="/news_detail.html?&mark_section=bangchuyuzhichi&mark_env=bangchuyuzhichi&content_id=1324">货物追踪</a>
+                </p>
+            </li>
+            <li>
+                <a class="nav_out">联系方式</a>
+                <p>
+                    <a data-re="key=lianxifangshi#lianxifangshi&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=内容简介&mark_body=内容详情&mark_type=blog&mark_section_label=联系方式&mark_env_label=联系方式&mark_section=lianxifangshi&mark_env=lianxifangshi&mark_page=1&mark_page_size=5"
+                       href="/news_detail.html?&mark_section=lianxifangshi&mark_env=lianxifangshi&content_id=1324">内容简介</a>
+                </p>
+            </li>
+        </ul>
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            try {
+                var current = 0;
+                $(".nav_out,.nav_over").attr("class", "nav_out").eq(current).attr("class", "nav_over");
+            } catch (e) {
+            }
+            $("#nav li").hover(function () {
+                $(this).find("p").slideDown(300);
+            }, function () {
+                $(this).find("p").hide();
+            });
+        });
+    </script>
+    <div id="banner">
+        <ul id="banner_ul" data-re="key=huandengpian#huandengpian&multiple=false&mark_type=blog&mark_section_label=幻灯片&mark_env_label=首页幻灯片&mark_section=huandengpian&mark_env=huandengpian&mark_page=1&mark_page_size=1&connections=thumbnails#shouye#shouye">
+            <li data-re="content_id=-1&mark_content_url=30&mark_show_on_dashboard=false&multiple=true&mark_section=shouye&mark_env=shouye&mark_page_size=5">
+                <img src="30" alt="UPS"></li>
+        </ul>
+        <div id="banner_button"></div>
+        <div id="itrack_box">
+            <ul id="itrack_menu">
+                <li class="active">运费计算</li>
+                <li onclick="$('#login,#login_bg').show();">会员登录</li>
+            </ul>
+            <div id="ifreight" class="itrack" style="display:block;">
+                <form action="" method="post" onsubmit="return Freight('cn');">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="60">目的地：</td>
+                            <td><input type="text" name="country" id="yf_country" class="itrack_text"></td>
+                        </tr>
+                        <tr>
+                            <td>类　型：</td>
+                            <td><select name="goodstype" id="yf_package">
+                                    <option value="WPX">包裹</option>
+                                    <option value="DOC">文件</option>
+                                </select></td>
+                        </tr>
+                        <tr>
+                            <td>实　重：</td>
+                            <td><input type="text" name="rweight" id="yf_weight" class="itrack_text" maxlength="10"
+                                       style="width:150px;" placeholder="必须为数字"> KG
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>体积重：</td>
+                            <td><input type="text" name="len" class="itrack_text" style="width:50px;" placeholder="长"> *
+                                <input type="text" name="width" class="itrack_text" style="width:50px;" placeholder="宽">
+                                * <input type="text" name="height" class="itrack_text" style="width:50px;"
+                                         placeholder="高"> CM
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2"><input type="submit" name="submit" class="itrack_submit" value="开始计算"></td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+            <div id="ilogin" class="itrack"></div>
+            <div id="iquery">
+                <p>包裹查询</p>
+                <textarea id="track_code" placeholder="在此输入包裹单号查询"></textarea>
+                <button onclick="Track();"></button>
+                <span onclick="Track();">
+                </span></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="jquery/jquery.cycle.all.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#banner_ul').cycle({fx: 'fade', pager: '#banner_button'});
+        })
+    </script>
+    <div id="process_bg">
+        <div id="process"></div>
+    </div>
+    <div class="ititle">
+        <h2>产品中心</h2>
+        <span>国际专线、国际快递、空运海运、铁路运输</span>
+    </div>
+    <div id="iproducts">
+        <a>
+            <img src="/images/20190325-233247.jpg" alt="国际专线">
+            <div><h2 class="gots">国际专线</h2>
+                <p class="gots">International line</p></div>
+        </a>
+        <a><img src="/images/20190325-233326.jpg"
+                    alt="国际快递">
+            <div><h2 class="gots">国际快递</h2>
+                <p class="gots">Express Service</p></div>
+        </a>
+        <a><img src="/images/20190325-233339.jpg"
+                    alt="空运海运">
+            <div><h2 class="gots">空运海运</h2>
+                <p class="gots">air transport</p></div>
+        </a>
+        <a><img src="/images/20190325-233358.jpg"
+                    alt="铁路运输">
+            <div><h2 class="gots">铁路运输</h2>
+                <p class="gots">Railway transportation</p></div>
+        </a>
+    </div>
+    <div id="iwhy_bg">
+        <div id="iwhy_box">
+            <div id="iwhy">
+                <a target="_blank">
+                    <img src="/images/20190522-162336.png">
+                    <h3 class="gots">免费提供仓储</h3>
+                    <p class="gots">Free storage</p>
+                </a>
+                <a target="_blank">
+                    <img src="/images/20190522-161708.png">
+                    <h3 class="gots">专业清关团队</h3>
+                    <p class="gots">Professional team</p>
+                </a>
+                <a target="_blank">
+                    <img src="/images/20190522-164455.png">
+                    <h3 class="gots">成熟操作经验</h3>
+                    <p class="gots">Operation experience</p>
+                </a>
+                <a target="_blank">
+                    <img src="/images/20190522-164155.jpg">
+                    <h3 class="gots">稳定的时效</h3>
+                    <p class="gots">Stable aging</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="ititle"><p>WALK INTO US</p>
+        <h2 id="iabout_company" style="white-space:nowrap;word-break:keep-all;"
+            data-re="key=gongsijianjie#gongsimingchen&multiple=false&mark_title=雅超&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司名称&mark_section=gongsijianjie&mark_env=gongsimingchen&mark_page=1&mark_page_size=1"
+        >
+            雅超</h2>
+        <span>关于我们、我们的承诺、新闻资讯、我们的风采</span></div>
+    <div id="iabout_box">
+        <div id="iabout_title" class="itis"><h3>关于我们<span>ABOUT US</span></h3></div>
+        <img id="iabout_image" src="/images/20190522-164658.jpg">
+        <div id="iabout_content">
+            <span style="font-family: Arial, Helvetica, sans-serif;"
+                  data-re="key=gongsijianjie#gongsijianjie&multiple=false&mark_title=是一家专业的国际货代服务运营商&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司简介&mark_section=gongsijianjie&mark_env=gongsijianjie&mark_page=1&mark_page_size=1"
+            >
+                                是一家专业的国际货代服务运营商
+                            </span>
+        </div>
+    </div>
+    <div id="icn_bg">
+        <div id="icn_box">
+            <div class="itis"><h3>我们的承诺<span>OUR COMMITMENT</span></h3></div>
+            <ul id="icn">
+                <li><img src="/images/20190325-234006.jpg" alt="100%理赔">
+                    <div><h3 class="gots">100%理赔</h3>
+                    </div>
+                </li>
+                <li><img src="/images/20190325-234020.jpg" alt="【全程无忧】">
+                    <div><h3 class="gots">【全程无忧】</h3>
+                    </div>
+                </li>
+                <li><img src="/images/20190325-234035.jpg" alt="【时效保证】">
+                    <div><h3 class="gots">【时效保证】</h3>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="inews_box">
+        <div id="inews_blk">
+            <div class="itis"><h3>行业新闻<span>NEWS</span></h3></div>
+            <ul id="inews">
+                <li class="gots"
+                    data-re="mark_show_on_bardground=false&mark_content_id=123&multiple=true&mark_created_at=2020-06-28&mark_title=感谢支持&mark_abstract=有人说:灾难&mark_body=最新消息:灾难&mark_type=blog&mark_section_label=行业新闻&mark_env_label=行业新闻&mark_section=hangyexinwen&mark_env=hangyexinwen&mark_page=1&mark_page_size=6"
+                >
+                    <a href="/news_detail.html?&content_id=123"
+                       title=""
+                       target="_blank">感谢支持</a><span>2020-06-28</span>
+                </li>
+            </ul>
+        </div>
+        <div id="istyle_blk">
+            <div class="itis"><h3>公司资讯<span>NEWS</span></h3></div>
+            <ul id="inews">
+                <li class="gots"
+                    data-re="mark_show_on_bardground=false&mark_content_id=123&key=gongsizixun#gongsizixun&mark_created_at=2020-06-28&multiple=true&mark_title=感谢支持&mark_abstract=有人说:灾难&mark_body=最新消息:灾难&mark_type=blog&mark_section_label=公司资讯&mark_env_label=公司资讯&mark_section=gongsizixun&mark_env=gongsizixun&mark_page=1&mark_page_size=6"
+                >
+                    <a href="/news_detail.html?&content_id=123" target="_blank">感谢支持</a><span>2020-06-28</span>
+                </li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="footer_nav_bg">
+        <div id="footer_nav_blk">
+            <ul id="footer_nav">
+                <li>
+                    <h2>关于我们</h2>
+                    <p data-re="key=guanyuwomen#guanyuwomen&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=公司信息&mark_body=内容详情&mark_type=blog&mark_section_label=关于我们&mark_env_label=关于我们&mark_section=guanyuwomen&mark_env=guanyuwomen&mark_page=1&mark_page_size=5">
+                        <a href="/news_detail.html?&mark_env=guanyuwomen&mark_section=guanyuwomen&content_id=1324">公司信息</a>
+                    </p>
+                </li>
+                <li>
+                    <h2>我们的产品</h2>
+                    <p data-re="key=womendechanpin#chanpinliebiao&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=关于我们&mark_body=内容详情&mark_type=blog&mark_section_label=我们的产品&mark_env_label=产品列表&mark_section=womendechanpin&mark_env=chanpinliebiao&mark_page=1&mark_page_size=5">
+                        <a href="/news_detail.html?&mark_env=chanpinliebiao&mark_section=womendechanpin&content_id=1324">关于我们</a>
+                    </p>
+                </li>
+                <li><h2>咨询中心</h2>
+                    <p data-re="section=zixunzhongxin&section_label=资讯中心&env=zixunzhongxin&env_label=资讯中心&page_size=10&title=货物追踪&type=blog&source_url=/news_detail.html&content_id=123">
+                        <a href="/news_detail.html?&section=zixunzhongxin&env=zixunzhongxin&id=123">货物追踪</a></p>
+                </li>
+                <li>
+                    <h2>帮助与支持</h2>
+                    <p data-re="key=zixunzhongxin#zixunzhongxin&multiple=true&mark_content_id=1324&mark_title=标题&mark_abstract=货物追踪&mark_body=内容详情&mark_type=blog&mark_section_label=咨询中心&mark_env_label=咨询中心&mark_section=zixunzhongxin&mark_env=zixunzhongxin&mark_page=1&mark_page_size=5">
+                        <a href="/news_detail.html?&mark_section=zixunzhongxin&mark_env=zixunzhongxin&content_id=1324">货物追踪</a>
+                    </p>
+                </li>
+            </ul>
+            <div class="clear"></div>
+            <div id="footer_qrcode"
+                 data-re="key=gongsijianjie#gongzhonghaoerweima&multiple=false&mark_type=blog&mark_section_label=公司简介&mark_env_label=公众号二维码&mark_section=gongsijianjie&mark_env=gongzhonghaoerweima&mark_page=1&mark_page_size=1&connections=thumbnails#tupian#erweima">
+                <img
+                        data-re="content_id=-1&mark_content_url=30&mark_show_on_dashboard=false&mark&multiple=false&mark_section=tupian&mark_env=erweima"
+                        src="30"><br>关注微信，了解更多
+            </div>
+        </div>
+    </div>
+    <div id="footer_blk">
+        <div id="footer"><p style="text-align: center;"
+                            data-re="key=gongsijianjie#gongsimingchen&multiple=false&mark_title=雅超&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司名称&mark_section=gongsijianjie&mark_env=gongsimingchen&mark_page=1&mark_page_size=1"
+            >版权所有：雅超
+                &nbsp;Copyright&nbsp;&copy;&nbsp;2008-2012&nbsp;All&nbsp;Rights&nbsp;Reserved.</p><a
+                    data-re="key=gongsijianjie#beianhaoma&multiple=false&mark_title=粤ICP备15032625&mark_type=blog&mark_section_label=公司信息&mark_env_label=备案号码&mark_section=gongsijianjie&mark_env=beianhaoma&mark_page=1&mark_page_size=1"
+                    href="http://www.beian.miit.gov.cn">粤ICP备15032625</a>
+
+            <p style="text-align: center;">&nbsp;</p>
+            <p style="display:none;"><img src="/images/loading2.gif"></p>
+        </div>
+    </div>
+    <div id="login_bg" onclick="$('#login,#reg,#login_bg').hide();"></div>
+    <input
+            data-re="key=gongsijianjie#gongsidaihao&multiple=false&mark_title=NoB&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司代号&mark_section=gongsijianjie&mark_env=gongsidaihao&mark_page=1&mark_page_size=1"
+            type="hidden" id="company_no" value="NoB"/>
+    <input
+            data-re="key=gongsijianjie#gongsidaihao&multiple=false&mark_title=NoB&mark_type=blog&mark_section_label=公司信息&mark_env_label=公司代号&mark_section=gongsijianjie&mark_env=gongsidaihao&mark_page=1&mark_page_size=1"
+            type="hidden" id="company_no" value="NoB"/>
+    <div id="login" class="login_form">
+        <img src="/images/close.jpg"
+             onclick="$('#login,#login_bg').hide();">
+        <h3>会员登录</h3>
+        <form name="form_login" method="get" action="" onsubmit="return Login(this);">
+            <p><input type="text" id="login_user" placeholder="请输入手机号/账号"></p>
+            <p><input type="pasword" id="login_pass" placeholder="请输入密码"></p>
+            <button>登录</button>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+    MarqueeImage('istyle', 'left', 40);
+    /*
+    $('#itrack_menu li').on('click',function(){
+        var cur=$(this).index();
+        $(this).addClass('active').siblings().removeProp('class');
+        $('.itrack').hide().eq(cur).show();
+    });
+    */
+</script>
+</body>
+</html>
