@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<style type="text/css">body, html,#allmap {width:100%;height:100%;overflow: hidden;margin:0;font-family:"微软雅黑";}
+</style>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&amp;ak=NePGmVayDqxXQXZo2cAmNIMV"></script>
+<title></title>
+</head>
+<body>
+<div id="allmap"></div>
+</body>
+</html>
+<script type="text/javascript">
+// 百度地图API功能
+var map = new BMap.Map("allmap");
+var point = new BMap.Point(113.829241,22.660934);
+map.centerAndZoom(point,17);
+
+var marker = new BMap.Marker(point);  // 创建标注
+map.addOverlay(marker);               // 将标注添加到地图中
+marker.setAnimation(BMAP_ANIMATION_BOUNCE); //跳动的动画
+
+var label = new BMap.Label("",{offset:new BMap.Size(20,-15)});
+//marker.setLabel(label);
+	
+var mapType1 = new BMap.NavigationControl();
+var mapType2 = new BMap.MapTypeControl();
+var overView = new BMap.OverviewMapControl();
+var overViewOpen = new BMap.OverviewMapControl({isOpen:true, anchor: BMAP_ANCHOR_BOTTOM_RIGHT});
+//添加地图类型和缩略图
+map.addControl(mapType1);
+map.addControl(mapType2);
+map.setCurrentCity("深圳");        //由于有3D图，需要设置城市哦
+//map.addControl(overView);          //添加默认缩略地图控件
+//map.addControl(overViewOpen);      //右下角，打开
+map.enableScrollWheelZoom(true);
+</script>

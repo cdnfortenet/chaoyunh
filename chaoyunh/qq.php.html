@@ -1,0 +1,36 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+function QQ(){
+var Div=document.createElement('div');
+Div.id='qq_online';
+Div.style.position='absolute';
+Div.style.top='180px';
+var Html='';
+Div.style.right='0px';
+Div.className='qq_onlines_6';
+Html+='<div id="qq_onlines_top">在 线 咨 询<p class="qq_onlines_small_right" onclick="QQ_Close();"><strong>在线咨询</strong></p></div>';
+Html+='<div id="qq_onlines_box">';
+Html+='<p id="qq_onlines_list">';
+Html+='<a href="tencent://message/?uin=2850699839&Site=客服港前&Menu=yes"><img src="http://www.katoexp.com/images/qq.png">客服港前</a>';
+Html+='<a href="tencent://message/?uin=2850699835&Site=客服港后&Menu=yes"><img src="http://www.katoexp.com/images/qq.png">客服港后</a>';
+Html+='<a href="tencent://message/?uin=2850699831&Site=应收财务&Menu=yes"><img src="http://www.katoexp.com/images/qq.png">应收财务</a>';
+Html+='<a href="tencent://message/?uin=2850699834&Site=应付财务&Menu=yes"><img src="http://www.katoexp.com/images/qq.png">应付财务</a>';
+Html+='</p>';
+Html+='<p id="qq_onlines_tdc"><img src="http://www.katoexp.com/uploadfiles/20150419_170909.png" /></p>';
+Html+='</div>';
+Div.innerHTML=Html;
+document.body.appendChild(Div);
+FloatDiv('qq_online',180);
+}
+if (document.all){
+window.attachEvent('onload',QQ)
+}else{
+window.addEventListener('load',QQ,false);
+}function QQ_Close(){
+if($('#qq_online').css('right')=='-130px'){
+$('#qq_online').animate({right:'0px'},300);
+}
+else {
+$('#qq_online').animate({right:'-130px'},300);
+}
+}
